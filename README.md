@@ -3,9 +3,9 @@
 ### This repository features code snippets of algorithms & solutions to basic problems implemented in Python & Kotlin/Java.
 
 <ol>
-  <li> Fast & Simple Input for competitive coding [Java]</li>
-  <li> Array Right Roation [Kt] </li>
-  <li> Joshephus n & n,k [Kt] </li>
+  <li> Fast & simple input for competitive coding [Java]</li>
+  <li> Array Right Rotation [Kt] </li>
+  <li> Joshephus Problem n & n,k [Kt] </li>
   <li> Jugglers sequence [Py] </li>
 
 </ol>
