@@ -3,15 +3,11 @@
 ### This repository features code snippets of algorithms & solutions to basic problems implemented in Python & Kotlin/Java.
 
 <ol>
-  <li> Fast & simple input for competitive coding [Java]</li>
-  <li> Array Right Rotation [Kt] </li>
-  <li> Joshephus Problem n & n,k [Kt] </li>
-  <li> Jugglers sequence [Py] </li>
+  <li> DataStructures [Kt] </li>
+  <li> Kotlin solutions to algorithmic problems </li>
+  <li> Python solutions to algorithmic problems </li>
+  <li> Kotlin Basics [Py] </li>
 
 </ol>
-
-
-
-A detailed readme will be made available soon.
 
 
