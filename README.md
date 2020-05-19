@@ -6,7 +6,7 @@
   <li> DataStructures [Kt] </li>
   <li> Kotlin solutions to algorithmic problems </li>
   <li> Python solutions to algorithmic problems </li>
-  <li> Kotlin Basics [Py] </li>
+  <li> Kotlin Basics </li>
 
 </ol>
 
