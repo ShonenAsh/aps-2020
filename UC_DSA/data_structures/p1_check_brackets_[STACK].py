@@ -1,3 +1,9 @@
+# Author	: 		Ashish M [ShonenAsh]
+# Problem	:		1 of Course-1 Week-1 from UC San Diego
+# Description:		Check whether the brackets in a text are closed or not
+# Input 	:		A text containing alphanumeric characters, brackets and common separators
+# Output	:		Prints the column number of the unmatched bracket otherwise "Sucess"
+
 class Item:
     def __init__(self, value):
         self.value = value
