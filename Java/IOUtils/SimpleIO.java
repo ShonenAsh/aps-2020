@@ -33,6 +33,8 @@ public class SimpleIO {
      * @param <T> : Type of ArrayList
      */
     public static <T> void printList(ArrayList<T> arr) {
+        if(arr.isEmpty())
+            return;
         arr.forEach(it -> System.out.print(it + " "));
         System.out.println();
     }
@@ -45,6 +47,8 @@ public class SimpleIO {
      */
 
     public static <T> void printList(ArrayList<T> arr, String separator) {
+        if(arr.isEmpty())
+            return;
         int size = arr.size();
         for (int i = 0; i < size - 2; i++) {
             System.out.print(arr.get(i) + separator);
